@@ -1,4 +1,4 @@
-name: 🔄 同步 rule 文件夹
+name: 同步 rule 文件夹
 
 on:
   schedule:
