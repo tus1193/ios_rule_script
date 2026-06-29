@@ -2,7 +2,7 @@ name: 同步 rule 文件夹
 
 on:
   schedule:
-    - cron: '0 4 * * 0' # 每周日中午 12:00
+    - cron: '0 4 1 * *' # 每月 1 号的中午 12:00
   workflow_dispatch:
 
 jobs:
