@@ -1,0 +1,42 @@
+name: 🔄 同步 rule 文件夹
+
+on:
+  schedule:
+    - cron: '0 4 * * 0' # 每周日中午 12:00
+  workflow_dispatch:
+
+jobs:
+  sync_folder:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout target repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Sync rule folder
+        run: |
+          # 1. 配置用户信息
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          
+          # 2. 添加上游仓库并获取
+          git remote add upstream https://github.com/blackmatrix7/ios_rule_script.git
+          git fetch upstream
+          
+          # 3. 将上游 master 分支的 rule 文件夹 checkout 到当前分支
+          # 这会把上游的 rule 目录覆盖到你仓库的 rule 目录
+          git checkout upstream/master -- rule
+          
+          # 4. 提交更改
+          # 检查是否有文件变更，有则提交
+          if git diff --quiet && git diff --cached --quiet; then
+            echo "没有发现更新，无需提交。"
+          else
+            git add rule/
+            git commit -m "chore: 同步上游 rule 文件夹更新"
+            git push origin master
+          fi
