@@ -1,13 +1,13 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-09-01 06:19:40
+# UPDATED: 2026-09-28 04:42:43
 # DOMAIN: 128
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34748
-# IP-CIDR: 116
+# DOMAIN-SUFFIX: 34775
+# IP-CIDR: 119
 # USER-AGENT: 46
-# TOTAL: 35074
+# TOTAL: 35104
 .000webhost.com
 .01.org
 .02weqj32.com
@@ -51,6 +51,8 @@
 .119474.xyz
 .11jav.com
 .123-hp.com
+.123av.com
+.123av.me
 .123bin.cc
 .123dapp.com
 .123dappipad.com
@@ -4477,6 +4479,7 @@
 .blackburn.ac.uk
 .blackcountryandmarchesiot.ac.uk
 .blacked.com
+.blackedraw.com
 .blackfridaydrebeatsnew.com
 .blackfridaydrebeatsshop.com
 .blackhomeporn.com
@@ -5787,6 +5790,7 @@
 .c-span.org
 .c-spanvideo.org
 .c.gle
+.c.go-mpulse.net
 .c.mi.com
 .c0930.com
 .c100tibet.org
@@ -6750,6 +6754,7 @@
 .chinesen.de
 .chinesenews.net.au
 .chinesepen.org
+.chineseposters.net
 .chineseradioseattle.com
 .chinesespanking.com
 .chinesetalks.net
@@ -7203,6 +7208,7 @@
 .code1984.com
 .codeberg.org
 .codeberg.page
+.codebuff.com
 .codecademy.com
 .codeforaliving.io
 .codeforces.com
@@ -11434,12 +11440,14 @@
 .firearmsworld.net
 .firebase-settings.crashlytics.com
 .firebase.com
+.firebase.dev
 .firebase.io
 .firebaseapp.com
 .firebaseio.com
 .firech.at
 .fireemblemawakening.com
 .fireflyresearch.ac.uk
+.firefox-portal-detection.com
 .firefox.com
 .firefox.hu
 .firefoxtweetmachine.com
@@ -11920,6 +11928,7 @@
 .freebrowser.org
 .freebs.com
 .freebsd.org
+.freebuff.com
 .freecamsfan.com
 .freecamstars.com
 .freecartoons.biz
@@ -12400,6 +12409,8 @@
 .gate.cc
 .gate.com
 .gate.io
+.gate.tv
+.gateapi.io
 .gatecoin.com
 .gatedata.org
 .gateimg.com
@@ -18167,7 +18178,6 @@
 .likee.com
 .likeeapp.ru
 .likeevideo.com
-.likeevideo.ru
 .likeseiyu.com
 .liketruyen.net
 .liketwice.com
@@ -18244,6 +18254,7 @@
 .linux.do
 .linux.org
 .linux.org.hk
+.linux.sb
 .linuxfoundation.org
 .linuxfromscratch.org
 .linuxmint.com
@@ -19754,6 +19765,7 @@
 .milftube.pro
 .milftugs.com
 .milfvr.com
+.milfy.com
 .milfzr.com
 .miliav.com
 .milkmanbook.com
@@ -21988,6 +22000,7 @@
 .nodereal.io
 .nodes.ac.uk
 .nodeseek.com
+.nodeseek.org
 .nodesnoop.com
 .nodesource.com
 .nofile.io
@@ -22054,6 +22067,7 @@
 .norton.com
 .norwichresearchpark.ac.uk
 .nos.nl
+.note.com
 .notegpt.io
 .notepad-plus-plus.org
 .noticias-rt.com
@@ -24954,6 +24968,7 @@
 .quadram.ac.uk
 .quadraminstitute.ac.uk
 .quadrat.ac.uk
+.quakemachinex.com
 .qualcomm-email.com
 .qualcomm-inc.com
 .qualcomm.co.id
@@ -25737,6 +25752,7 @@
 .roborecall.com
 .robotoffice.com
 .robustnessiskey.com
+.roc-taiwan.org
 .rochdalesfc.ac.uk
 .rocket-inc.net
 .rocket.chat
@@ -25807,6 +25823,7 @@
 .roughebonysex.com
 .roughman.net
 .roundtable.ac.uk
+.roushuwo.com
 .routerboard.com
 .routesintolanguages.ac.uk
 .routledgehandbooks.com
@@ -27398,6 +27415,7 @@
 .slashine.onl
 .slavbank.ru
 .slavicstar.com
+.slayed.com
 .slaytizle.com
 .slc.ac.uk
 .slc.tl
@@ -28422,6 +28440,9 @@
 .stripe-terminal-local-reader.net
 .stripe.ac.uk
 .stripe.com
+.stripe.dev
+.stripe.events
+.stripe.global
 .stripe.network
 .stripecdn.com
 .stripparadise.com
@@ -28861,6 +28882,7 @@
 .taiwancon.com
 .taiwandaily.net
 .taiwandc.org
+.taiwanembassy.org
 .taiwanhot.net
 .taiwanjobs.gov.tw
 .taiwanjustice.com
@@ -29213,6 +29235,7 @@
 .textnow.me
 .texttobuy.org
 .texture.com
+.tfbnw.net
 .tfc-taiwan.org.tw
 .tferwq.com
 .tfhub.dev
@@ -30275,6 +30298,7 @@
 .tusco.ru
 .tushy.com
 .tushycash.com
+.tushyraw.com
 .tuta.com
 .tuta.io
 .tutamail.com
@@ -31184,6 +31208,7 @@
 .vaultify.info
 .vaultify.net
 .vaultproject.io
+.vava8.com
 .vbcdn.com
 .vbcdn.net
 .vbejeyv.shop
@@ -31694,6 +31719,7 @@
 .vivaxnxx.com
 .vivthomas.com
 .vixen.com
+.vixengroup.com
 .vixvids.to
 .viznet.ac.uk
 .vizvaz.com
@@ -33017,6 +33043,7 @@
 .wspcr.ac.uk
 .wtbn.org
 .wtc.ac.uk
+.wtfpass.com
 .wtfpeople.com
 .wtmobile.com
 .wto.org
